@@ -1,0 +1,4 @@
+x=input("enter any number:")
+y=input("enter any number:")
+mul=int(x)*int(y)
+print("sum of the two number is:",mul)
