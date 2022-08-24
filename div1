@@ -1,0 +1,10 @@
+x=10
+y=20
+
+
+
+
+
+div=x/y
+
+print("div of two numbers:",div) 
